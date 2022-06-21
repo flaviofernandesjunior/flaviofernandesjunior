@@ -12,6 +12,6 @@
 </div>
 <br>
   
-- 👨🏽‍💻 Atualmente procurando minha primeira vaga como Desenvolvedor
-- 🐍 Aprendendo Python
-- ☕ Movido a café
+- 👨🏽‍💻 Searching job
+- 🐍 Learning Python
+- ☕ Coffee man
