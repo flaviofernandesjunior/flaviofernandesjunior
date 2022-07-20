@@ -1,4 +1,4 @@
-# Olá, mundo! Eu sou o Flavio Fernandes 🙋🏽‍♂️
+# Olá, mundo! Eu sou o Flavio 🙋🏽‍♂️
 
 <div align="center">
   <a href="https://github.com/flaviofernandesjunior">
