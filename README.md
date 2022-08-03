@@ -13,5 +13,4 @@
 <br>
   
 - 👨🏽‍💻 Searching job
-- 🐍 Learning Python
 - ☕ Coffee man
